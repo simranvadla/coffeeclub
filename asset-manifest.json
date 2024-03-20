@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bean-cafe/static/css/main.3a8e6e6f.css",
+    "main.js": "/bean-cafe/static/js/main.6dc14ab0.js",
+    "static/media/cart-empty.jpg": "/bean-cafe/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
+    "index.html": "/bean-cafe/index.html",
+    "main.3a8e6e6f.css.map": "/bean-cafe/static/css/main.3a8e6e6f.css.map",
+    "main.6dc14ab0.js.map": "/bean-cafe/static/js/main.6dc14ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8e6e6f.css",
+    "static/js/main.6dc14ab0.js"
+  ]
+}
