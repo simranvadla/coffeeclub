@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coffeeclub/static/css/main.3a8e6e6f.css",
-    "main.js": "/coffeeclub/static/js/main.a03cc7b8.js",
+    "main.js": "/coffeeclub/static/js/main.de096bb8.js",
     "static/media/cart-empty.jpg": "/coffeeclub/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
     "index.html": "/coffeeclub/index.html",
     "main.3a8e6e6f.css.map": "/coffeeclub/static/css/main.3a8e6e6f.css.map",
-    "main.a03cc7b8.js.map": "/coffeeclub/static/js/main.a03cc7b8.js.map"
+    "main.de096bb8.js.map": "/coffeeclub/static/js/main.de096bb8.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8e6e6f.css",
-    "static/js/main.a03cc7b8.js"
+    "static/js/main.de096bb8.js"
   ]
 }
